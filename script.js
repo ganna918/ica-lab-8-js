@@ -1,4 +1,4 @@
-// Step 1: the restaurant's numbersconst restaurantName = "Burger Republic";
+// Step 1: the restaurant's numbers
  const restaurantName = "Burger Republic";
  let ordersPerDay = 41;
  const averageOrder = 200;
